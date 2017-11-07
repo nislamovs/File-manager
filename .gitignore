@@ -1,0 +1,8 @@
+
+#Root directory
+*.iml
+**/.idea/*
+node_modules
+
+
+
