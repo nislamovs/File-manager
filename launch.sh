@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-node meadowlark.js
+#node meadowlark.js
+pm2 stop meadowlark.js
